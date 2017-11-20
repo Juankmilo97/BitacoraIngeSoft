@@ -1,0 +1,122 @@
+header{
+  background: #3B6C73;
+  color: #fff;
+  padding: 5px;
+  padding-bottom: 25px;
+}
+
+h1 {
+  padding: 5px;
+  margin: 5px;
+}
+
+h2, h3, h4, h5, h6 {
+  padding: 3px;
+  margin: 2px;
+}
+
+.sendM p {
+  background-color: white;
+}
+
+div{
+  padding: 10px;
+}
+
+.learn {
+  background-color: #C04759;
+}
+
+.cupcake {
+  margin-top: 15px;
+}
+
+.cupcake * {
+  padding-right: 10px;
+  padding-left: 25px;
+  
+}
+
+.sendM {
+  background-color: #C04759;
+  color: #fff;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.footsquare {
+  background-color: #383431;
+  color: white;
+  width: 100%;
+  text-align: center;
+  padding: 3px;
+  margin-bottom: 0px;
+}
+
+a:link {
+  color: white;
+}
+
+.msg {
+  font-size: 18px;
+  background-color: #EDE5D2;
+  color: black;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: -3px;
+}
+
+.container-fluid {
+  background-color: #3B6C73;
+  color: white;
+}
+
+.square{
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-left: 5%;
+    border-width: 2px;
+    border: 1px solid #9090A5;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.square .part1{
+    height: 10px;
+    width: 70%;
+    background: #C04759;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.square .part2{
+    height: 10px;
+    width: 24%;
+    background: #F1D87F;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.square .btnCool{
+    background: #C04759;
+    width: 45%;
+    border: 2px solid #C04759;
+    color: #fff;
+}
+
+.square .btnLame{
+    background: #fff;
+    padding-left: 0;
+    margin-left: 4%;
+    border: 2px solid #F1D87F;
+    width: 45%;
+    color: #F1D87F;
+}
+
+progress {
+  margin-bottom: 15px;
+  width: 365px;
+}
